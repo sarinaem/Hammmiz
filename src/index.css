@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.rc-slider-mark-text {
+  @apply text-xs text-gray-700 mr-5;
+}
